@@ -35,5 +35,5 @@ I'm a **Cloud Data Engineer** with a passion for crafting efficient, scalable da
 
 
 ## 🌐 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srikar-reddy-mandli/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/srikarreddymandli)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mandlisrikar/)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:mandli.srikar95@gmail.com)
