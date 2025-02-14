@@ -2,7 +2,7 @@
 
 
 ## 📝 About Me:
-I'm a **Cloud Data Engineer** with a passion for crafting efficient, scalable data pipelines, automating workflows, and tackling challenges in cloud computing, DevOps, and machine learning. Apart from my professional life, I love to explore new cuisines and enjoy sports.
+I'm a **Cloud Data & Analytics Engineer** with a passion for crafting efficient, scalable data pipelines, automating workflows, and tackling challenges in cloud computing, DevOps, and machine learning. Apart from my professional life, I love to explore new cuisines and enjoy sports.
 
 ## 🚀 Skills & Technologies
 
