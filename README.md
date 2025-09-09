@@ -1,6 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F70000&center=true&vCenter=true&width=750&lines=👋+Hi+there!+I'm+Srikar+Reddy+Mandli;💻+Cloud+Data+Engineer+%7C+Tech+Enthusiast;🌱+Learning+New+Technologies+Everyday;🚀+AWS+%7C+Python+%7C+Automation+Lover;🌐+Welcome+to+my+GitHub+Profile!)
 
-
 ## 📝 About Me:
 I'm a **Cloud Data & Analytics Engineer** with a passion for crafting efficient, scalable data pipelines, automating workflows, and tackling challenges in cloud computing, DevOps, and machine learning. Apart from my professional life, I love to explore new cuisines and enjoy sports.
 
@@ -16,6 +15,7 @@ I'm a **Cloud Data & Analytics Engineer** with a passion for crafting efficient,
 ### 🏗️ Frameworks & Libraries:
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
 ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?logo=apachespark&logoColor=white)
 ![Boto3](https://img.shields.io/badge/-Boto3-232F3E?logo=amazonaws&logoColor=white)
 ![Hive](https://img.shields.io/badge/-Hive-FDEE21?logo=apachehive&logoColor=white)
@@ -33,7 +33,6 @@ I'm a **Cloud Data & Analytics Engineer** with a passion for crafting efficient,
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
-
 
 ## 🌐 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mandlisrikar/)
