@@ -112,7 +112,8 @@ I believe the most valuable engineering skills are the fundamentals: **understan
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srmandli95&layout=compact&theme=transparent&hide_border=true" height="160" alt="Most used languages" />
+Explore my repositories and contributions on
+[GitHub](https://github.com/srmandli95?tab=repositories).
 
 <img src="https://streak-stats.demolab.com?user=srmandli95&theme=transparent&hide_border=true" height="160" alt="GitHub contribution streak" />
 
