@@ -1,86 +1,130 @@
-# Srikar Reddy Mandli
-
-### Software Engineer | Backend & Cloud Engineering | Distributed Systems | AI Engineering
-
-Software Engineer focused on designing scalable applications, building reliable backend systems, and developing cloud-native solutions.
-
-My technical interests span software architecture, Python development, distributed systems, cloud infrastructure, data engineering, and AI-native application development.
-
-[LinkedIn](https://www.linkedin.com/in/mandlisrikar/) · [GitHub](https://github.com/srmandli95) · [Email](mailto:mandli.srikar95@gmail.com)
-
----
-
-## About Me
-
-I'm a Software Engineer passionate about building maintainable, high-performance applications and solving complex engineering challenges.
-
-My background and technical interests encompass backend engineering, cloud computing, infrastructure automation, and large-scale data processing.
-
-I'm particularly interested in understanding how systems operate internally, improving software reliability, optimizing performance, and applying engineering best practices across the development lifecycle.
-
-Currently, I'm expanding my knowledge of **AI engineering, agentic systems, and LLM-powered applications**, with an emphasis on designing secure, reliable, and scalable AI integrations.
-
-## Technical Expertise
-
-| Domain | Technologies & Concepts |
-|---|---|
-| **Programming Languages** | Python, SQL, Bash |
-| **Backend Development** | FastAPI, Flask, Django, REST APIs, Asynchronous Programming |
-| **Software Architecture** | System Design, Distributed Systems, Microservices, Design Patterns, OOP |
-| **Cloud Platforms** | AWS, Microsoft Azure, Google Cloud |
-| **DevOps & Infrastructure** | Terraform, Docker, Kubernetes, GitHub Actions, GitLab CI/CD, Jenkins |
-| **Data Engineering** | Apache Spark, PySpark, Databricks, Hadoop, Hive, AWS Glue, Amazon EMR |
-| **Databases & Analytics** | PostgreSQL, BigQuery, Data Modeling, ETL/ELT |
-| **Engineering Practices** | CI/CD, Infrastructure as Code, Automated Testing, Observability, Performance Optimization |
-
-## AI Engineering & Emerging Technologies
-
-My current focus includes understanding and developing AI-powered software systems using modern LLM architectures, agent frameworks, and integration protocols.
-
-| Technology | Areas of Interest |
-|---|---|
-| **Model Context Protocol (MCP)** | MCP servers, clients, tools, resources, and external integrations |
-| **AI Agents & Agentic AI** | Autonomous workflows, tool execution, agent orchestration |
-| **LangChain & LangGraph** | LLM applications, stateful workflows, agent orchestration |
-| **Large Language Models** | OpenAI API, function calling, structured outputs |
-| **Retrieval-Augmented Generation** | Embeddings, semantic search, vector databases, retrieval pipelines |
-| **Multi-Agent Systems** | Agent collaboration, coordination, and state management |
-| **AI Observability** | Tracing, evaluation, monitoring, and debugging |
-| **AI Security** | Prompt-injection defenses, access control, secure tool integration |
-
-## Engineering Interests
-
-- **Backend & API Engineering:** Scalable Python services, asynchronous processing, API design, and application performance.
-- **System Design:** Distributed architectures, caching, concurrency, messaging, consistency, and fault tolerance.
-- **Cloud & Platform Engineering:** Infrastructure automation, containerization, CI/CD, cloud-native architecture, and reliability.
-- **Data-Intensive Systems:** Distributed processing, data pipelines, SQL optimization, and data platform architecture.
-- **AI-Native Software:** MCP integrations, agent orchestration, LLM applications, and RAG architectures.
-- **Software Quality:** Automated testing, clean architecture, maintainability, security, and observability.
-
-## Currently Exploring
-
-- Advanced Python and backend software architecture
-- Distributed systems and scalable service design
-- Model Context Protocol (MCP) and tool integration
-- AI agents and multi-agent orchestration
-- LangGraph, LangChain, and LLM application frameworks
-- RAG architectures and vector databases
-- AI evaluation, monitoring, and production reliability
-
-## GitHub Activity
-
+```markdown
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=srmandli95&show_icons=true&theme=default&hide_border=true" height="165" alt="GitHub Statistics" />
+# Srikar Reddy Mandli
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srmandli95&layout=compact&theme=default&hide_border=true" height="165" alt="Top Languages" />
+### Software Engineer | Cloud & Backend Engineering | AI & Distributed Systems
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1300&color=64748B&center=true&vCenter=true&width=800&lines=Software+Engineering+%7C+Cloud+Architecture;Python+%7C+Backend+%7C+Automation;Exploring+AI+Agents+%7C+MCP+%7C+LLMs;Building+Reliable+and+Scalable+Systems)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mandlisrikar/)
+[![GitHub](https://img.shields.io/badge/GitHub-srmandli95-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/srmandli95)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mandli.srikar95@gmail.com)
 
 </div>
 
 ---
 
-## Connect
+## About Me
 
-Open to professional connections and technical discussions involving software engineering, backend architecture, cloud infrastructure, distributed systems, and AI technologies.
+I'm a **Software Engineer** with a strong interest in building scalable applications, reliable cloud infrastructure, and efficient backend systems.
+
+My engineering experience and interests span **Python, cloud computing, DevOps, data engineering, and distributed systems**. I enjoy solving complex technical problems, improving system performance, and designing software that's maintainable and built to scale.
+
+I'm also exploring the intersection of traditional software engineering and **AI-native applications**, particularly AI agents, Model Context Protocol (MCP), LLMs, and intelligent workflow automation.
+
+- **Engineering:** Backend services, system design, cloud-native applications, and automation
+- **Current focus:** Advanced Python, distributed systems, and AI engineering
+- **Exploring:** MCP, AI agents, RAG, LangGraph, and LLM integrations
+- **Interests:** Software architecture, developer productivity, performance, and reliability
+
+---
+
+## Tech Stack
+
+### Languages & Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+
+### Data Engineering
+
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+![Apache Hive](https://img.shields.io/badge/Apache_Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black)
+![AWS Glue](https://img.shields.io/badge/AWS_Glue-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Amazon EMR](https://img.shields.io/badge/Amazon_EMR-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+---
+
+## AI Engineering & Emerging Technologies
+
+Exploring how modern AI capabilities can be integrated into reliable, production-oriented software systems.
+
+![AI Agents](https://img.shields.io/badge/AI_Agents-374151?style=flat-square)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-2563EB?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-7C3AED?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-0F766E?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-0891B2?style=flat-square)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6D28D9?style=flat-square)
+![Vector Databases](https://img.shields.io/badge/Vector_Databases-0D9488?style=flat-square)
+
+**Areas of focus:**
+
+- **Model Context Protocol:** MCP servers, clients, and external tool integrations
+- **Agentic Systems:** AI agents, tool calling, and workflow orchestration
+- **LLM Applications:** RAG, embeddings, vector search, and context management
+- **Production AI:** Evaluation, tracing, observability, and security
+
+---
+
+## Engineering Focus
+
+```text
+Software Engineering
+  ├── Backend Development & API Design
+  ├── Cloud Architecture & Infrastructure Automation
+  ├── Distributed Systems & Scalability
+  ├── Data Engineering & Processing
+  └── AI-Native Applications
+       ├── MCP & Tool Integration
+       ├── AI Agents & Orchestration
+       └── LLMs & Retrieval Systems
+```
+
+I believe the most valuable engineering skills are the fundamentals: **understanding systems, writing maintainable code, designing for reliability, and continuously improving how software is built.**
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srmandli95&layout=compact&theme=transparent&hide_border=true" height="160" alt="Most used languages" />
+
+<img src="https://streak-stats.demolab.com?user=srmandli95&theme=transparent&hide_border=true" height="160" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Interested in software engineering, cloud architecture, distributed systems, and AI-powered applications.**
 
 [LinkedIn](https://www.linkedin.com/in/mandlisrikar/) · [GitHub](https://github.com/srmandli95) · [Email](mailto:mandli.srikar95@gmail.com)
+
+</div>
+```
