@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 # Srikar Reddy Mandli
@@ -127,4 +127,4 @@ I believe the most valuable engineering skills are the fundamentals: **understan
 [LinkedIn](https://www.linkedin.com/in/mandlisrikar/) · [GitHub](https://github.com/srmandli95) · [Email](mailto:mandli.srikar95@gmail.com)
 
 </div>
-```
+
